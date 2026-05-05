@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+Some facts about me: my name is Kai, i am from Germany and currently 18 years old
+
+The only things I do are playing video games and looking at my pc screen doing nothing.
+Oh and sometimes I code: alone or with my best friend Claud 😉 
+
 <!--
 **karp27/karp27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
