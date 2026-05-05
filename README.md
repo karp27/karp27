@@ -1,6 +1,9 @@
 ## Hi there 👋
 
-Some facts about me: my name is Kai, i am from Germany and currently 18 years old
+Some facts about me: 
+- my name is Kai, 
+- I am from Germany and 
+- I am currently 18 years old.
 
 The only things I do are playing video games and looking at my pc screen doing nothing.
 Oh and sometimes I code: alone or with my best friend Claud 😉 
